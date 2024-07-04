@@ -1,0 +1,10 @@
+body{
+   background-image: url(img/page\ principale.png);
+   background-size: cover;
+}
+.contenu{
+   font-size: larger;
+   font-weight: 500;
+   position: absolute;
+   top: auto;
+}
